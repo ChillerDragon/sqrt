@@ -218,7 +218,7 @@ float ENIACSqrtInterpolated(unsigned long value)
 double SuccessiveApproximationSqrt(double value)
 {
     double old;
-    double new; 
+    double new;
     double delta;
 
     /* check for valid input value */
